@@ -13,3 +13,5 @@ To enable the use on a German machine I am using the library from Michael Dworki
 //Key entry               >> https://janbpunkt.de/2017/10/21/ezeebox/
 
 //German Keyboard library >> https://github.com/MichaelDworkin/Arduino-Leonardo-USB-Keyboard-Deutsch-library
+
+//Original Idea from Heise>>https://www.heise.de/make/meldung/Dieselpunk-Zahleneingabe-wie-anno-dazumal-3764858.html
