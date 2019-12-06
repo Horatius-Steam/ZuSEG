@@ -1,9 +1,9 @@
 # ZuSEG
 Code for a special entry machine
 This is a special machine to entry numbers and special characters
-with a dial and som special function keys.
+with a dial and some special function keys.
 More description inside the code.
-The originals are collected form the Internet.
+The originals where collected form the Internet.
 
 The Arduino Leonardo only speaks "English Keyboard".
 To enable the use on a German machine I am using the library from Michael Dworkin.
