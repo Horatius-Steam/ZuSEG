@@ -1,7 +1,7 @@
 
 //atmega32u4
 //Board Arduino Leonardo
-//Sketch to use a dial as input for number
+//Sketch to use a dial as input for numbers
 //and 10 keys for special charakters
 //plus a switch for CR
 //
@@ -15,8 +15,8 @@
 #include <KeyboardDE.h> //using the library made by Michael Dworkin instead
 //#include <Keyboard.h> has some problems with German keyboard drivers.
 //definition of pins for keys
-//Pin 9 & 10 reserviert fuer Waehlscheibe
-int keypadPins[] = {2, 3, 4, 5, 6, 7, 8, 11, 12, 13}; //Pins definieren, an denen Taster hängen 
+//Pin 9 & 10 reserved for dial
+int keypadPins[] = {2, 3, 4, 5, 6, 7, 8, 11, 12, 13}; //Define pins for function keys 
 
 //length of the level before valid - reflect the measurement period
 static const byte samplerate = 5; // ms
